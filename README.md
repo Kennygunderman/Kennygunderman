@@ -1,16 +1,23 @@
-### Hi there 👋 I'm Kenny!
+### Hey, I'm Kenny.
 
-<!--
-**Kennygunderman/Kennygunderman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Sr. Software Engineer** with over **8+ years of experience**. I work professionally on building full-stack applications, with a focus on native Android and cross-platform mobile applications.
 
-Here are some ideas to get you started:
+In addition to development, I also run a **YouTube channel with 220k+ subscribers** where I share content on breaking into the software industry, web and mobile development, and career tips for developers!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as a Sr. Software Engineer at **Nerdery**.
+- 🌱 I’m currently learning **system design** and **cloud engineering**.
+- 👯 I’m looking to collaborate on **open-source mobile projects** and **developer-focused video content**.
+- 💬 Ask me about **React Native, Android, mobile development, and breaking into tech**.
+- 📫 How to reach me: [YouTube](https://www.youtube.com/kennygunderman) | [LinkedIn](https://www.linkedin.com/in/kenny-gunderman-0406a8119/) | contact@kgunderman.com
+
+---
+
+🚀 **Current Projects:**
+- Building features for the **Petfinder** mobile app: https://apps.apple.com/us/app/petfinder-adopt-a-pet/id557228073
+- Working on my side project: **State of Health** (thestateofhealth.com), adding new features, improving backend functionality, and creating YouTube around it.
+
+📊 **Stats:**
+![Kenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kennygunderman&show_icons=true&theme=radical)
+
+📺 **Latest YouTube Video:**
+[![Latest YouTube Video](https://img.shields.io/youtube/channel/views/your-channel-id?style=social)](https://www.youtube.com/channel/your-channel-url)
