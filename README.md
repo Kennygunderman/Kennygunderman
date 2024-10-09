@@ -16,12 +16,9 @@ In addition to development, I also run a **YouTube channel with 220k+ subscriber
 - Building features for the **Petfinder** mobile app: https://apps.apple.com/us/app/petfinder-adopt-a-pet/id557228073
 - Working on my side project: **State of Health** (thestateofhealth.com), adding new features, improving backend functionality, and creating YouTube around it.
 
+📺 **YouTube Channel:**
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCkCJ0zLrSg7VudR97g-FNVQ?style=social)](https://www.youtube.com/@kennygunderman)
+
 📊 **Stats:**
 
 ![Kenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kennygunderman&show_icons=true&theme=radical)
-
-📺 **Latest YouTube Video:**
-
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCkCJ0zLrSg7VudR97g-FNVQ?style=social)](https://www.youtube.com/@kennygunderman)
-
-Check out my channel: [YouTube](https://www.youtube.com/@kennygunderman)
