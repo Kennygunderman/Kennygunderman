@@ -22,6 +22,6 @@ In addition to development, I also run a **YouTube channel with 220k+ subscriber
 
 📺 **Latest YouTube Video:**
 
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCNulSLQaP-NJlmRz4X9xUaA?style=social)](https://www.youtube.com/@kennygunderman)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCkCJ0zLrSg7VudR97g-FNVQ?style=social)](https://www.youtube.com/@kennygunderman)
 
 Check out my channel: [YouTube](https://www.youtube.com/@kennygunderman)
