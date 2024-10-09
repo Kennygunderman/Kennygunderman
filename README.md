@@ -17,9 +17,11 @@ In addition to development, I also run a **YouTube channel with 220k+ subscriber
 - Working on my side project: **State of Health** (thestateofhealth.com), adding new features, improving backend functionality, and creating YouTube around it.
 
 📊 **Stats:**
+
 ![Kenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kennygunderman&show_icons=true&theme=radical)
 
 📺 **Latest YouTube Video:**
-[![Latest YouTube Video](https://img.shields.io/youtube/channel/views/your-channel-id?style=social)](https://youtu.be/jZSZemm1Q3M?si=4btVojxINi9hdk3s)
+
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCNulSLQaP-NJlmRz4X9xUaA?style=social)](https://www.youtube.com/@kennygunderman)
 
 Check out my channel: [YouTube](https://www.youtube.com/@kennygunderman)
