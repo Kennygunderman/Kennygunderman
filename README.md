@@ -1,4 +1,4 @@
-### Hey, I'm Kenny.
+### Hey, I'm Kenny 👋
 
 I'm a **Sr. Software Engineer** with over **8+ years of experience**. I work professionally on building full-stack applications, with a focus on native Android and cross-platform mobile applications.
 
@@ -20,4 +20,6 @@ In addition to development, I also run a **YouTube channel with 220k+ subscriber
 ![Kenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kennygunderman&show_icons=true&theme=radical)
 
 📺 **Latest YouTube Video:**
-[![Latest YouTube Video](https://img.shields.io/youtube/channel/views/your-channel-id?style=social)](https://www.youtube.com/channel/your-channel-url)
+[![Latest YouTube Video](https://img.shields.io/youtube/channel/views/your-channel-id?style=social)](https://youtu.be/jZSZemm1Q3M?si=4btVojxINi9hdk3s)
+
+Check out my channel: [YouTube](https://www.youtube.com/@kennygunderman)
